@@ -1,7 +1,4 @@
 def findMainDiagonalSum(matrix):
-    # if not elements:
-    #     return "Empty Array."
-
     mainDiagonalSum = 0
 
     for i in range(len(matrix)):
